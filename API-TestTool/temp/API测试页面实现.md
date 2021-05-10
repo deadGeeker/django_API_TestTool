@@ -8,7 +8,7 @@
 ---
 
 + + ##### <a id="p1" href="#catlog">-设置路由和视图函数</a>
-+ + + + ![avatar](https://github.com/deadGeeker/django_API_TestTool/blob/main/API-TestTool/temp/image/50.png)
++ + + + ![avatar](https://github.com/deadGeeker/django_API_TestTool/blob/main/API-TestTool/temp/image/50.PNG)
 ---
 
 + + ##### <a id="p2" href="#catlog">-设置菜单链接</a>
